@@ -7,12 +7,7 @@ Default chapter attributes.
 
 `aesop_chapter_scroll_offset`
 
-Filter or change the offset scroll distance of a Chapter marker when clicked. Here’s an example:
-
-`add_filter("aesop_chapter_scroll_offset","myaddchapteroffset");
-function myaddchapteroffset(){
-return 100;
-}`
+Filter or change the offset scroll distance of a Chapter marker when clicked. 
 
 `aesop_chapter_scroll_container`
 

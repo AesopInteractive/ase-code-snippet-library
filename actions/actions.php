@@ -7,7 +7,7 @@
  *	documentation below for more on those specific hooks.
  */
 
-{{ aesop_COMPONENTNAME_before }}
-{{ aesop_COMPONENTNAME_inside_top }}
-{{ aesop_COMPONENTNAME_inside_bottom }}
-{{ aesop_COMPONENTNAME_after }}
+aesop_COMPONENTNAME_before
+aesop_COMPONENTNAME_inside_top
+aesop_COMPONENTNAME_inside_bottom
+aesop_COMPONENTNAME_after

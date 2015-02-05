@@ -1,4 +1,4 @@
 Actions
 ==========
 
-These are examples of different actions.
+These are examples of different actions available.
