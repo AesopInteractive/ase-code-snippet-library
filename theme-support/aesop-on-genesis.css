@@ -1,0 +1,17 @@
+/**
+ * Aesop Story Engine - Full Screen Components in Genesis
+ */
+
+.aesop-on-genesis .site-inner{
+    max-width:100%;
+}
+.aesop-on-genesis .entry {
+    padding-left:0;
+    padding-right:0;
+}
+.aesop-on-genesis .entry > *:not(.aesop-component) {
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}

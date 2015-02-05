@@ -1,0 +1,15 @@
+/**
+ * Apply the theme content width to the paragraph elements.
+ * Each component has it’s own width option built-in. If the 
+ * user chooses “content” as the width option in any component, 
+ * the class .aesop-content is applied. It’s recommended to 
+ * set your site's width into this class.
+ * Refer to: http://aesopstories.com/themes/content-first
+ */
+
+p,
+.aesop-content {
+  width:100%;
+  max-width:960px;
+  margin:0 auto;
+}
