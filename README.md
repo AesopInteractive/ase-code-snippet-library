@@ -5,7 +5,7 @@ This is a community-maintained repository of code snippets that help modify the 
 
 Snippets are organized into categories (folders) and each snippet is placed in its own file with a name that describes what it does.
 
-Thank you to the [EDD team](https://github.com/easydigitaldownloads/library) and the [CMB2 team](https://github.com/WebDevStudios/CMB2-Snippet-Library) for the inspiration for this library.
+Thanks goes out to the [EDD](https://github.com/easydigitaldownloads/library) and the [CMB2](https://github.com/WebDevStudios/CMB2-Snippet-Library) teams for the inspiration for this library.
 
 ## Submitting Your Snippet
 
